@@ -54,7 +54,7 @@ This project is a simple React Todo app that utilizes Tailwind CSS for styling. 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-This application currently has no live demo.
+Check the app live on the browser [here](https://smart-bazar-todo-app.onrender.com).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
